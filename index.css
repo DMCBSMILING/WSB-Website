@@ -46,6 +46,11 @@ html ::-webkit-scrollbar{
     color: black; 
     
 }
+@media screen and (max-width: 786px){
+    .navbar{
+        width: 30px;
+    }
+}
 /* Navbar ending point */
 
 
