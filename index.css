@@ -47,8 +47,8 @@ html ::-webkit-scrollbar{
     
 }
 @media screen and (max-width: 786px){
-    .navbar{
-        width: 30px;
+    .nav-item{
+        overflow: hidden;
     }
 }
 /* Navbar ending point */
